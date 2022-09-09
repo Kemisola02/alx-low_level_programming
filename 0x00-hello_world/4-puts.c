@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
  * *main - This is the entry point
- * *Return: Everytime 0
- (successful)
+ * *Return: Everytime 0 (successful)
  *
  *
  */
